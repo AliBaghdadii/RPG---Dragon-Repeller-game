@@ -148,3 +148,7 @@ function fightSlime() {
 function fightBeast() {
   
 }
+
+function goFight() {
+
+}
