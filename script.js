@@ -267,5 +267,5 @@ function pickEight() {
 }
 
 function pick(guess) {
-
+    const numbers = [];
 }
